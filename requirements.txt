@@ -1,0 +1,6 @@
+streamlit
+streamlit_lottie
+pandas
+streamlit-aggrid
+plotly.express
+graphviz

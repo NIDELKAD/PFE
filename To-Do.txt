@@ -1,0 +1,45 @@
+-------------------------------------------- Chapitre 3 -------------------------------------------------
+
+• voir le mémoire qu'on m'a envoyé
+
+• parler de l'affichage des données boukhfif (bars, pie et les tableaux)
+
+-------------------------------------------- Chapitre 4 -------------------------------------------------
+
+• commencer par expliquer le choix des paramètres
+
+• régler les résultats pour la fonctionnalité 3
+
+• graphique gatal ta3 le temps
+
+-------------------------------------------- Vidéo -------------------------------------------------
+
+• Déplacer le repertoire du projet vers le bureau
+
+• entre 10 et 15 minutes
+
+• Si ça pernd trop de temps faire un cut et le préciser dans la vidéo
+
+------------------------------------- Après le depôt -----------------------------------------------
+
+• Ajouter fel workspace les résultats des autres fonctionnalités (tous les digrammes)
+
+• bouton random pour la création de graphe locaux random : définit aléatoirement le nombre de sommets et arrêtes
+
+• mettre des intervalles fel camambert fonctionnalité 2 ki tkoun clique kbira
+
+• page dediée au graphes DIMACS et métaheuristiques
+
+• Barre de progression ou animation lottie : https://docs.streamlit.io/develop/api-reference/status/st.progress
+
+• Quelques Widgets chba7 (Animation lottie)
+
+• data storytelling with ipyvizzu librairie
+
+• page Settings : https://docs.streamlit.io/develop/concepts/configuration/theming
+
+• Themes : https://docs.streamlit.io/develop/concepts/configuration/theming
+
+💡st.set_page_config(page_title="Application PFE", page_icon="logo.png", layout='wide', initial_sidebar_state='expanded')
+
+💡Push les DIMACS graph sur Github pour déployer l'application sinon essyer avec Firebase 🔥
